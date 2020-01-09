@@ -6,4 +6,7 @@ This Arduino project is inspired by the "Arduino Projects Book" project 11 by Sc
 
 
   **Prerequisites:**
-   - Arduino
+  - Arduino Uno
+  - USB type B
+  - Breadboard
+  - Jumper Wires
