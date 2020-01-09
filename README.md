@@ -10,3 +10,6 @@ This Arduino project is inspired by the "Arduino Projects Book" project 11 by Sc
   - USB type B
   - Breadboard
   - Jumper Wires
+  - LCD Screen
+  - Tactile Switch
+  - Potentiometer
