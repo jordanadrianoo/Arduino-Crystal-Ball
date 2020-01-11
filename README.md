@@ -13,7 +13,8 @@ This Arduino project is inspired by the "Arduino Projects Book" project 11 by Sc
   - LCD Screen
   - Tactile Switch
   - Potentiometer
-
+  - Resistor
+  
  <img src="Project Pictures/Resistor-Chart.png" width="700" height="600">
  
 **Software:**
