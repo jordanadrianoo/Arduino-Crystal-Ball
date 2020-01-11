@@ -14,7 +14,7 @@ This Arduino project is inspired by the "Arduino Projects Book" project 11 by Sc
   - Tactile Switch
   - Potentiometer
 
- <img src="Project Pictures/Resistor-Chart.png" width="700" height="500">
+ <img src="Project Pictures/Resistor-Chart.png" width="700" height="600">
  
 **Software:**
 - [Arduino API Downloads](https://www.arduino.cc/en/main/software)
