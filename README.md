@@ -23,4 +23,4 @@ This Arduino project is inspired by the "Arduino Projects Book" project 11 by Sc
 - [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
 - [Arduino Uno Setup Guide](https://www.arduino.cc/en/Guide/ArduinoUno)
 
-# Arduino Schematic
+# Arduino Schematics
